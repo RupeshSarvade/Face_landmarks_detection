@@ -5,4 +5,4 @@ Facial landmark detection is a computer vision task in which a model needs to pr
 This script is created by using Opencv and mediapipe.
 
 app.py = for detecting face landmarks on input video.
-webcam_app.py = for detecting face lanmarks on webcam.
+webcam_app.py = for detecting face landmarks on webcam.
